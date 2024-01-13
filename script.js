@@ -96,7 +96,7 @@ clear.addEventListener("click", function()
   num1 = "";
   num2 = "";
   op = "";
-  document.querySelector(".display").textContent = "";
+  document.querySelector(".display").textContent = "0";
 });
 
 let del = document.querySelector(".del");
